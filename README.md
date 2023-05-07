@@ -5,4 +5,4 @@ If the project was larger, it might have it's own repository.
 
 | No. | Medium article | Folder |
 | :---         |:--- |   ---: |
-| 1   | [Cross-validation of Cox regressor](https://www.google.com/)     | cox-cross-validation 
+| 1   | [Cross-validation of Cox regressor](https://medium.com/@martin.spendl/stable-cross-validation-for-cox-regression-50be8f776ffc)     | cox-cross-validation 
